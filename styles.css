@@ -1,0 +1,16 @@
+
+body{
+    background-color: #b6e8fc; /* Azul celeste */ ;
+}
+
+h1 {
+    font-size: 280%;  /* Aumenta el tamaño */
+    text-align: center;  /* Centra el texto */
+    text-decoration: underline;  /* Subraya el texto */
+}
+h2{
+    background-color: #4288a3;
+}
+pre{
+    margin-left: 2%;
+}
